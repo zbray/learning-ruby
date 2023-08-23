@@ -1,16 +1,13 @@
 puts "Hello World"
 puts "Hello World"
 puts "Hello World"
-puts "Hello World(puts end)"
+puts "Hello World"
 puts "----"
-print "(print start)Hello World"
 print "Hello World"
 print "Hello World"
-print "Hello World(print end)"
-puts "(puts start)Hello World"
-puts "Hello World"
-puts "Hello World"
-puts "Hello World"
+print "Hello World"
+print "Hello World"
+
 # Output
 # puts will print the input and then create a line break
 # print will print the input and not create a line break
@@ -48,3 +45,4 @@ puts ("didn't like being " + character_age)
 
 # here we added a new character_name def line changing the name to Zach and it delivered for the next time character_name was called
 
+# Data Types
